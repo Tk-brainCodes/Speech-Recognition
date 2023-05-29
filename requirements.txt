@@ -1,3 +1,8 @@
 streamlit
+<<<<<<< HEAD
 speechrecognition
+=======
+SpeechRecognition
+pyttsx3
+>>>>>>> 478a88e (feat: added packages.txt for pyaudio, also updated requirements.txt)
 pyaudio
